@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/io/github/createduser/lang_string/MatchPriorityUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/io/github/createduser/lang_string/Lang.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/io/github/createduser/lang_string/LangStrings.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/io/github/createduser/lang_string/Langs.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/kotlin/io/github/createduser/lang_string/MatchPriority.kt" charset="GBK" />
+  </component>
+</project>

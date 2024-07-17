@@ -38,6 +38,7 @@ class LangStrings(rootString: String,links : MutableMap<Lang,Lang> = mutableMapO
             Langs.zh_TW to Langs.zh_cmn_Hant_TW,
 
             Lang("?","*","*","?") to Lang("?","","","?"),
+            Lang("?","*","*") to Lang("?")
         )
     }
 
@@ -62,7 +63,6 @@ class LangStrings(rootString: String,links : MutableMap<Lang,Lang> = mutableMapO
 
     /**
      * Match
-     *
      *
      * @param lang 语言
      * @param priority 优先级，匹配时会以优先级倒序剔除标签

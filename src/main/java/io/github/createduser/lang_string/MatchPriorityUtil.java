@@ -6,8 +6,8 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 这个工具类用于让Java开发者更好地使用优先级。
- * <p> 当然，Kotlin开发者也可以使用这个类库，只是没有直接使用中缀函数MatchPriority.next(Tag)和Tag.next(Tag)那样直观
+* This tool class is used to allow Java developers to better use priorities.
+ * <p> Of course, Kotlin developers can also use this class library, but it is not as intuitive as directly using the infix functions MatchPriority.next(Tag) and Tag.next(Tag)
  *
  * @see MatchPriorityKt
  */
